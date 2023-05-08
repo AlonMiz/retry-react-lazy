@@ -1,6 +1,6 @@
 # Retry dynamic imports with Lazy react
 
-Read this article to understand the details
+Read [this article](https://medium.com/@alonmiz1234/retry-dynamic-imports-with-react-lazy-c7755a7d557a) to understand the details
 
 
 

@@ -3,7 +3,6 @@
 Read [this article](https://medium.com/@alonmiz1234/retry-dynamic-imports-with-react-lazy-c7755a7d557a) to understand the details
 
 
-
 ## Usage
 
 
@@ -22,3 +21,7 @@ const App = () => (
   </Router>
 );
 ```
+
+## Working module
+you can find an npm module here by @fatso83
+https://github.com/fatso83/retry-dynamic-import
